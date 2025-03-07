@@ -45,9 +45,7 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
 ![](https://nirzak-streak-stats.vercel.app/?user=BiratAryal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BiratAryal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-> **Tech Stack:** Various
 <h2 align="left">🛠 TechStacks</h2>
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
