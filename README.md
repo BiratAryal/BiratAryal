@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="left">I'm Birat from Lokanthali, Nepal<br><br>- 🔭 I’m working as Sr. InfraDevOps Engineer<br>- 📚 Completed MSc. on CyberSecurity<br>- ⚡ In my free time I like to explore tools and its integrations</p>
 
 ###
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h2 align="left">Connect With Me</h2>
 
