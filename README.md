@@ -58,6 +58,8 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  />
   <img width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" height="50" alt="vmware logo"  />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
@@ -66,11 +68,19 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions logo"  />
   <img width="30" />
+  <img src="https://svgmix.com/uploads/8a7fb3-harbor.svg" height="50" alt="harbor logo"  />
+  <img width="30" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="50" alt="kubernetes logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="terraform logo"  />
   <img width="30" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
+  <img width="30" />
+  <img src="https://svgmix.com/uploads/49f105-helm.svg" height="50" alt="helm logo"  />
+  <img width="30" />
+  <img src="https://svgmix.com/uploads/c6a22c-trivy.svg" height="60" alt="trivy logo"  />
+  <img width="30" />
+  <img src="https://svgmix.com/uploads/7217a3-sonarqube.svg" height="40" alt="sonarqube logo"  />
   <img width="30" />
   <img src="https://cdn.simpleicons.org/ansible/EE0000" height="50" alt="ansible logo"  />
   <img width="30" />
