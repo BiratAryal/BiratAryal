@@ -8,7 +8,7 @@
 
 ###
 
-I am a passionate [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_overview.htm) programmer and a technology enthusiast. With a strong foundation in programming and development, I love exploring new technologies and sharing my knowledge with others. I believe that continuous learning is the key to staying relevant and achieving success in the ever-evolving field of software engineering.
+I am a passionate a technology enthusiast. With a strong foundation in programming and development, I love exploring new technologies and sharing my knowledge with others. I believe that continuous learning is the key to staying relevant and achieving success in the ever-evolving field of software engineering and DevOps lifecycle.
 
 💼 *Professional Summary:* Highly skilled and motivated professional with extensive experience in both system and DevOps engineering, specializing in configuring and managing firewalls, virtualization platforms, containerization technologies, and database systems. Demonstrated expertise in planning and leading teams, meeting project deadlines, and transferring knowledge effectively. Proven ability to troubleshoot complex issues, implement high-quality technical solutions, and automate workflows to optimize software delivery processes. Strong problem-solving and communication skills, coupled with a commitment to continuous learning and delivering innovative solutions that align with business objectives and drive operational efficiency.
 
@@ -147,14 +147,13 @@ I am a passionate [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexc
   <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
 </div>
 
-
-
 ## 📫 Contact Information
 
 You can reach out to me through any of the following platforms:
 
-- Personal Website: [www.birataryal.com.np](http://www.birataryal.com.np)
+- Website: [www.birataryal.com.np](http://www.birataryal.com.np)
 - LinkedIn: [Birat Aryal](https://www.linkedin.com/in/birataryal/) 
+- Twitter: [Twitter](https://twitter.com/apexbirat)
 
 Feel free to contact me if you have any questions, suggestions, or if you'd like to collaborate on a project!
 
