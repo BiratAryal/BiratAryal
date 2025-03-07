@@ -1,21 +1,32 @@
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
 
 <h1 align="center">Hi👋, I am Birat Aryal</h1>
 
 ###
 
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Birat from Lokanthali, Nepal<br><br>- 🔭 I’m working as Sr. InfraDevOps Engineer<br>- 📚 Completed MSc. on CyberSecurity<br>- ⚡ In my free time I like to explore tools and its integrations</p>
+I am a passionate [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_overview.htm) programmer and a technology enthusiast. With a strong foundation in programming and development, I love exploring new technologies and sharing my knowledge with others. I believe that continuous learning is the key to staying relevant and achieving success in the ever-evolving field of software engineering.
+
+💼 *Professional Summary:* Highly skilled and motivated professional with extensive experience in both system and DevOps engineering, specializing in configuring and managing firewalls, virtualization platforms, containerization technologies, and database systems. Demonstrated expertise in planning and leading teams, meeting project deadlines, and transferring knowledge effectively. Proven ability to troubleshoot complex issues, implement high-quality technical solutions, and automate workflows to optimize software delivery processes. Strong problem-solving and communication skills, coupled with a commitment to continuous learning and delivering innovative solutions that align with business objectives and drive operational efficiency.
+
+🌱 *Interests & Skills*: I have a keen interest and experience DevOps.
+
+🌐 Connect with me on [Linkedin](www.linkedin.com/in/birat-aryal)
+🌐 Connect with me on [Twitter](https://twitter.com/apexbirat)
+🌐 Connect with me on [Gmail](mail:birataryal2@gmail.com)
+
+<!-- <p align="left">I'm Birat from Lokanthali, Nepal<br><br>- 🔭 I’m working as Sr. InfraDevOps Engineer<br>- 📚 Completed MSc. on CyberSecurity<br>- ⚡ In my free time I like to explore tools and its integrations</p> -->
 
 ###
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
 
 <h2 align="left">Connect With Me</h2>
 
@@ -28,14 +39,14 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
+<!-- ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BiratAryal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BiratAryal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BiratAryal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BiratAryal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
+> **Tech Stack:** Various
 <h2 align="left">🛠 TechStacks</h2>
-
 ###
 
 <div align="left">
@@ -135,3 +146,18 @@
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
 </div>
+
+
+
+## 📫 Contact Information
+
+You can reach out to me through any of the following platforms:
+
+- Personal Website: [www.birataryal.com.np](http://www.birataryal.com.np)
+- LinkedIn: [Birat Aryal](https://www.linkedin.com/in/birataryal/) 
+
+Feel free to contact me if you have any questions, suggestions, or if you'd like to collaborate on a project!
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and projects to learn more about my skills and interests. I am always open to new opportunities for growth and collaboration in the exciting world of software development. Stay curious, keep coding, and let's create something amazing together!
