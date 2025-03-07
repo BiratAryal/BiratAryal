@@ -16,7 +16,7 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
 
 - Connect with me on [Linkedin](www.linkedin.com/in/birat-aryal)
 - Connect with me on [Twitter](https://twitter.com/apexbirat)
-- Connect with me on [Gmail](mail:birataryal2@gmail.com)
+- Connect with me on [Gmail](birataryal2@gmail.com)
 
 <!-- <p align="left">I'm Birat from Lokanthali, Nepal<br><br>- 🔭 I’m working as Sr. InfraDevOps Engineer<br>- 📚 Completed MSc. on CyberSecurity<br>- ⚡ In my free time I like to explore tools and its integrations</p> -->
 
