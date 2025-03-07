@@ -14,9 +14,9 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
 
 🌱 *Interests & Skills*: I have a keen interest and experience DevOps.
 
-🌐 Connect with me on [Linkedin](www.linkedin.com/in/birat-aryal)
-🌐 Connect with me on [Twitter](https://twitter.com/apexbirat)
-🌐 Connect with me on [Gmail](mail:birataryal2@gmail.com)
+- Connect with me on [Linkedin](www.linkedin.com/in/birat-aryal)
+- Connect with me on [Twitter](https://twitter.com/apexbirat)
+- Connect with me on [Gmail](mail:birataryal2@gmail.com)
 
 <!-- <p align="left">I'm Birat from Lokanthali, Nepal<br><br>- 🔭 I’m working as Sr. InfraDevOps Engineer<br>- 📚 Completed MSc. on CyberSecurity<br>- ⚡ In my free time I like to explore tools and its integrations</p> -->
 
@@ -122,6 +122,10 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
   <img width="30" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="50" alt="grafana logo"  />
   <img width="30" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+  <img width="30" />
+  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
+  <img width="30" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="50" alt="graphql logo"  />
   <img width="30" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="50" alt="nginx logo"  />
@@ -153,7 +157,7 @@ You can reach out to me through any of the following platforms:
 
 - Website: [www.birataryal.com.np](http://www.birataryal.com.np)
 - LinkedIn: [Birat Aryal](https://www.linkedin.com/in/birataryal/) 
-- Twitter: [Twitter](https://twitter.com/apexbirat)
+- Twitter: [Birat Aryal](https://twitter.com/apexbirat)
 
 Feel free to contact me if you have any questions, suggestions, or if you'd like to collaborate on a project!
 
