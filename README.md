@@ -25,7 +25,6 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ###
 
 <h2 align="left">Connect With Me</h2>
