@@ -122,9 +122,9 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
   <img width="30" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="50" alt="grafana logo"  />
   <img width="30" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="50" height="50"/>
   <img width="30" />
-  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/>
   <img width="30" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="50" alt="graphql logo"  />
   <img width="30" />
