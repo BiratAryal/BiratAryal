@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="left">I'm Birat from Lokanthali, Nepal<br><br>- 🔭 I’m working as Sr. InfraDevOps Engineer<br>- 📚 Completed MSc. on CyberSecurity<br>- ⚡ In my free time I like to explore tools and its integrations</p>
 
@@ -38,6 +40,19 @@ Here are some ideas to get you started:
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BiratAryal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BiratAryal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BiratAryal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BiratAryal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BiratAryal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h2 align="left">🛠 TechStacks</h2>
 
