@@ -14,9 +14,12 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
 
 🌱 *Interests & Skills*: I have a keen interest and experience DevOps.
 
-- Connect with me on [Linkedin](www.linkedin.com/in/birat-aryal)
-- Connect with me on [Twitter](https://twitter.com/apexbirat)
-- Connect with me on [Gmail](birataryal2@gmail.com)
+## 🔗 Find me online
+- 🌐 [Website – birataryal.com.np](https://birataryal.com.np)
+- 💼 [LinkedIn – Birat Aryal](https://www.linkedin.com/in/birat-aryal)
+- 🧑‍💻 [GitHub – BiratAryal](https://github.com/BiratAryal)
+- 🐦 [Twitter – @apexbirat](https://twitter.com/apexbirat)
+
 
 <!-- <p align="left">I'm Birat from Lokanthali, Nepal<br><br>- 🔭 I’m working as Sr. InfraDevOps Engineer<br>- 📚 Completed MSc. on CyberSecurity<br>- ⚡ In my free time I like to explore tools and its integrations</p> -->
 
