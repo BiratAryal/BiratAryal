@@ -20,7 +20,7 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
 - 🧑‍💻 [GitHub – BiratAryal](https://github.com/BiratAryal)
 - 🐦 [Twitter – @apexbirat](https://twitter.com/apexbirat)
 
-
+---
 <!-- <p align="left">I'm Birat from Lokanthali, Nepal<br><br>- 🔭 I’m working as Sr. InfraDevOps Engineer<br>- 📚 Completed MSc. on CyberSecurity<br>- ⚡ In my free time I like to explore tools and its integrations</p> -->
 
 ###
