@@ -78,7 +78,7 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions logo"  />
   <img width="30" />
-  <img src="[https://svgmix.com/uploads/8a7fb3-harbor.svg](https://images.seeklogo.com/logo-png/44/1/harbor-logo-png_seeklogo-447018.png)" height="50" alt="harbor logo"  />
+  <img src="https://images.seeklogo.com/logo-png/44/1/harbor-logo-png_seeklogo-447018.png" height="50" alt="harbor logo"  />
   <img width="30" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="50" alt="kubernetes logo"  />
   <img width="30" />
