@@ -86,11 +86,11 @@ I am a passionate a technology enthusiast. With a strong foundation in programmi
   <img width="30" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
   <img width="30" />
-  <img src="https://svgmix.com/uploads/49f105-helm.svg" height="50" alt="helm logo"  />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" height="50" alt="helm logo"  />
   <img width="30" />
-  <img src="https://svgmix.com/uploads/c6a22c-trivy.svg" height="60" alt="trivy logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*hlFdbAp-u3ZZYlpK.png" height="60" alt="trivy logo"  />
   <img width="30" />
-  <img src="https://svgmix.com/uploads/7217a3-sonarqube.svg" height="40" alt="sonarqube logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" height="40" alt="sonarqube logo"  />
   <img width="30" />
   <img src="https://cdn.simpleicons.org/ansible/EE0000" height="50" alt="ansible logo"  />
   <img width="30" />
